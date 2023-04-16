@@ -22,19 +22,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Nobble Attire</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An exlusive clothing retailer.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lukasz-stepien-dev/Noble-Attire/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/lukasz-stepien-dev/Noble-Attire/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/lukasz-stepien-dev/Noble-Attire/issues">Request Feature</a>
   </p>
 </div>
 
@@ -239,7 +239,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/lukasz-stepien-dev/Noble-Attire/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/%C5%82ukasz-st%C4%99pie%C5%84-31788922a/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/design.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
