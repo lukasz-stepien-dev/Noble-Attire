@@ -82,11 +82,11 @@ The page is my first first dynamic page with PHP. It's going to learn more HTML,
 
 ### Built With
 
-* [![HTML][HTML]][HTML-url]
-* [![CSS][CSS]][CSS-url]
-* [![JavaScript][JavaScript]][JavaScript-url]
-* [![PHP][PHP]][PHP-url]
-* [![MySQL][MySQL]][MySQL-url]
+[![HTML][HTML]][HTML-url]
+[![CSS][CSS]][CSS-url]
+[![JavaScript][JavaScript]][JavaScript-url]
+[![PHP][PHP]][PHP-url]
+[![MySQL][MySQL]][MySQL-url]
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
@@ -235,5 +235,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [JavaScript-url]: https://www.javascript.com/
 [PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [PHP-url]: https://www.php.net/
-[MySQL]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL]: https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
